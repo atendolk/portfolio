@@ -322,7 +322,12 @@ form .row:first-child .floating-label-form-group {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-image: url("http://wallpaper.pickywallpapers.com/1920x1080/deep-blue-space.jpg");
+  background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
   color: #fff
+
 }
 
 .copyright {
@@ -343,7 +348,8 @@ a:active, a:focus, a:hover {
 
 .bg-primary {
   background-image: url("http://cdn.pcwallart.com/images/austin-texas-skyline-wallpaper-3.jpg");
-  background-size: cover;
+
+   background-size: cover;
 }
 
 .bg-secondary {
@@ -360,6 +366,10 @@ a:active, a:focus, a:hover {
 
 .boggy {
   background-image: url("http://wallpaper.pickywallpapers.com/1920x1080/deep-blue-space.jpg");
+  background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 
 .btn-primary {
