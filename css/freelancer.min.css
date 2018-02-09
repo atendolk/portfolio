@@ -348,8 +348,7 @@ a:active, a:focus, a:hover {
 }
 
 .bg-primary {
-  background-image: url("http://cdn.pcwallart.com/images/austin-texas-skyline-wallpaper-3.jpg");
-
+background-image: url("../img/austinskyline.jpg");
    background-size: cover;
 }
 
