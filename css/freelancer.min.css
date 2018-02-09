@@ -321,8 +321,8 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  /* background-image: url("../img/space.jpg"); */
-  background-image: url("https://wallpapercave.com/wp/AaBON0Z.jpg");
+  background-image: url("../img/space.jpg");
+  /* background-image: url("https://wallpapercave.com/wp/AaBON0Z.jpg"); */
   background-attachment: fixed;
    background-position: center;
    background-repeat: no-repeat;
@@ -366,8 +366,8 @@ a:active, a:focus, a:hover {
 }
 
 .boggy {
-/* background-image: url("../img/space.jpg"); */
-background-image: url("https://wallpapercave.com/wp/AaBON0Z.jpg");
+background-image: url("../img/space.jpg");
+/* background-image: url("https://wallpapercave.com/wp/AaBON0Z.jpg"); */
   background-attachment: fixed;
    background-position: center;
    background-repeat: no-repeat;
